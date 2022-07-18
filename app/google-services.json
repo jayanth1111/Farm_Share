@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "467908332197",
+    "project_id": "farm-ease-62f7a",
+    "storage_bucket": "farm-ease-62f7a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:467908332197:android:d8ddb12fe6a3d03fa59b4c",
+        "android_client_info": {
+          "package_name": "com.example.farm_share"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "467908332197-8c5hqodi7n69lshc6i7ciqphboq4do7j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBk3aXpEUXo9vFvctaXtdFbZgiH69cKc4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "467908332197-8c5hqodi7n69lshc6i7ciqphboq4do7j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
